@@ -2,4 +2,5 @@
 int main(){
     printf("hwllo world\n");
     printf("hello lega");
+    printf("hello lega 1");
 }
