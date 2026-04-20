@@ -4,4 +4,7 @@ int main(){
     printf("hello lega");
     printf("hello lega 1");
     printf("tanish");
+    printf("tanish 1");
+    printf("tanish 2");
+    
 }
